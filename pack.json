@@ -1,0 +1,9 @@
+{
+  "name": "GameCube",
+  "description": "This pack adds the music that plays in the GameCube to your Steam Deck's menu.",
+  "author": "Vortexis",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
